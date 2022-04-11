@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Fondamento&display=swap');
+body{
+    background:grey !important;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px !important;
+    background:  #2c3e50
+  }
+.container {
+    border: 1px solid rgba(0, 0, 0, .11);
+    
+    padding: 10px;
+    width: 1300px
+}
+
